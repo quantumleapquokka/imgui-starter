@@ -1,0 +1,5 @@
+[ Copy "Hello, world!" to clipboard ]
+[ Copy "Hello, world!" to clipboard ]
+[ Write a logger message ]
+[ Copy "Hello, world!" to clipboard ]
+[ Write a logger message ]

@@ -1,0 +1,10 @@
+^C:\USERS\SAMMI\DOWNLOADS\UCSC\W2026\CMPM123\IMGUI-STARTER\BUILD\CMAKEFILES\AA4A8E03CAF9BAC28F753D83DB7184F3\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/sammi/Downloads/UCSC/W2026/CMPM123/imgui-starter -BC:/Users/sammi/Downloads/UCSC/W2026/CMPM123/imgui-starter/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/sammi/Downloads/UCSC/W2026/CMPM123/imgui-starter/build/tictactoe.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

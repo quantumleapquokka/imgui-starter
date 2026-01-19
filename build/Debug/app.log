@@ -1,0 +1,11 @@
+[INFO] Logger initialized. Output file: app.log
+[INFO] Game started successfully
+[WARNING] Button pressed: writing a warning to console + file
+[INFO] Test log line from button
+[INFO] Test log line from button
+[INFO] Test log line from button
+[INFO] Test log line from button
+[INFO] Test log line from button
+[WARNING] Button pressed: writing a warning to console + file
+[INFO] Logger initialized. Output file: app.log
+[INFO] Game started successfully

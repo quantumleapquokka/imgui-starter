@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sammi\Downloads\UCSC\W2026\CMPM123\imgui-starter\build\CMakeFiles\aa4a8e03caf9bac28f753d83db7184f3\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{44022BD6-A544-3A4D-A6AE-9FA29B77DD86}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
